@@ -1,7 +1,7 @@
 # Customer Churn Prediction
 
 ## Overview
-This project predicts customer churn using machine learning techniques. The goal is to identify customers likely to leave a service based on demographic and service usage data.
+This project predicts whether a customer will churn using machine learning models. The goal is to help businesses identify customers at risk of leaving and take proactive retention actions.
 
 ## Dataset
 - Telco Customer Churn dataset (~7000 customers)
@@ -27,3 +27,11 @@ The churn prediction problem shows relatively linear relationships between featu
 - Pandas, NumPy
 - Scikit-learn
 - Jupyter Notebook
+
+## How to Run
+
+1. Clone the repository:
+   git clone https://github.com/JeevanGowdaGR/customer-churn-prediction.git
+   cd customer-churn-prediction
+2. Install dependencies:
+   pip install pandas numpy scikit-learn
