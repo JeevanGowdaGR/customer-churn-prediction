@@ -31,7 +31,6 @@ The churn prediction problem shows relatively linear relationships between featu
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/JeevanGowdaGR/customer-churn-prediction.git
-   cd customer-churn-prediction
-2. Install dependencies:
-   pip install pandas numpy scikit-learn
+2. git clone https://github.com/JeevanGowdaGR/customer-churn-prediction.git
+cd customer-churn-prediction
+pip install pandas numpy scikit-learn
